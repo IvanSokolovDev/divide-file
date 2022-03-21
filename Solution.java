@@ -13,12 +13,6 @@ public class Solution {
     public static String toFile1;
     public static String toFile2;
 
-    static {
-        fromFile = "C:\\Users\\Admin\\Documents\\text1.txt";
-        toFile1 = "C:\\Users\\Admin\\Documents\\text2.txt";
-        toFile2 = "C:\\Users\\Admin\\Documents\\text3.txt";
-    }
-
     public static void main(String[] args) {
         fromFile = readFileName();
         toFile1 = readFileName();
