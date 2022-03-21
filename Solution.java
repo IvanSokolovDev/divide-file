@@ -2,10 +2,6 @@ import java.io.*;
 import java.util.Arrays;
 import java.util.Scanner;
 
-/* 
-Разделение файла
-*/
-
 public class Solution {
     public static String fromFile;
     public static String toFile1;
