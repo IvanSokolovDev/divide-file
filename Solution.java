@@ -1,5 +1,3 @@
-package com.javarush.task.task18.task1808;
-
 import java.io.*;
 import java.util.Arrays;
 import java.util.Scanner;
